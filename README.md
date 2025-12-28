@@ -1,41 +1,203 @@
-# Prabin Mohanty
-💻 Experienced Pega & Python Developer | Enterprise AI Workflow Specialist | LangChain & Cloud Solutions
+# 👋 Prabin Mohanty
 
-Results-oriented developer with 5+ years of experience delivering scalable BPM and automation solutions across banking, telecom, and enterprise domains. Versatile in both Pega platform (BPM, CDH, marketing automation) and Python development for AI, data pipelines, and workflow orchestration. Recently, I've specialized in building production-grade enterprise automations—leveraging **LangChain** to connect business logic, data, and LLMs (Large Language Models) for the next generation of AI-powered systems.
+**AI Specialist | Production LangChain Engineer | Full-Stack Developer**  
+*Building intelligent enterprise automation at Commonwealth Bank of Australia*
 
-# Recognized for:
-- Expert integration of Pega and Python (RESTful APIs, real-time data exchange)
-- Architecting robust, secure workflow solutions in cloud environments (AWS, hybrid)
-- Accelerating digital transformation by blending Pega's business rules with cutting-edge **LangChain** frameworks
-- Leading cross-functional collaboration, QA enablement, and clear documentation
+---
 
-Passionate about bridging structured processes and GenAI for truly adaptive, intelligent enterprise systems.
+## 🎯 About Me
 
-## ⚡ Tech Stack
+I'm a results-driven AI specialist with **5+ years** of enterprise experience architecting production-grade automation and intelligent systems. I specialize in **LangChain + AI workflows**, bridging business logic with large language models to deliver transformative solutions across banking, fintech, and telecom domains.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pega](https://img.shields.io/badge/Pega-blue?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBpZD0icGVnZS1sb2dvIiB3aWR0aD0iMzIiIGhlaWdodD0iMjEiIHZpZXdCb3g9IjAgMCAzMiAyMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48Y2lyY2xlIGN4PSIxNiIgY3k9IjEwLjUiIHI9IjEwIiBmaWxsPSIjMDA0QjZDIi8+PHRleHQgeD0iNSIgeT0iMTQiIGZpbGw9IndoaXRlIiBmb250LXNpemU9IjEwIj5QZWdhPC90ZXh0Pjwvc3ZnPg==&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1A73E8?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHZpZXdCb3g9IjAgMCAyMCAyMCIgZmlsbD0ibm9uZSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMjAiIGhlaWdodD0iMjAiIHJ4PSIxMCIgZmlsbD0iIzFBNzNFOCIvPjwvc3ZnPg==&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
+At **Commonwealth Bank of Australia**, I've built end-to-end agentic systems, reduced operational cycles by 70% through intelligent automation, and led the integration of AI into core business processes.
 
-## 📈 GitHub Stats
+**Current Focus**: Production LangChain implementations, RAG systems, AI agents, and full-stack cloud solutions.
+
+---
+
+## 🚀 Core Expertise
+
+| **Category** | **Skills** |
+|---|---|
+| **AI & LLM** | LangChain, Claude Sonnet, Prompt Engineering, RAG Systems, Agentic AI, Vector Databases, Fine-tuning |
+| **Backend** | Python, REST APIs, FastAPI, Pega BPM, ETL/Data Pipelines, GraphQL |
+| **Frontend** | Next.js, React, TypeScript, Tailwind CSS, DaisyUI, React Query |
+| **Cloud & DevOps** | AWS (EC2, S3, Lambda, DynamoDB), Docker, GitHub Actions, CI/CD |
+| **Databases** | PostgreSQL, MySQL, DynamoDB, Vector DBs (Pinecone, Weaviate) |
+| **Enterprise Tools** | Pega 8.6, JIRA, Confluence, Streamlit, n8n |
+
+---
+
+## 💼 Professional Highlights
+
+### 🏦 Commonwealth Bank of Australia | Software Engineer
+**Production Impact:**
+- **70% Cycle Time Reduction**: Automated regression testing from 1-2 weeks → 3 days (comprehensive semi-automated test suite with progress tracking)
+- **3 Production LangChain Agents**: Built end-to-end agentic systems for merchant intelligence and operational automation
+- **Merchant MCC Prediction Engine**: Agentic AI system using Claude Sonnet 4.0 to analyze business descriptions and predict merchant category codes with 95%+ accuracy
+- **Merchant Onboarding Automation**: Multi-product testing framework covering 15+ product types, merchant classifications, pricing models, and regulatory checks
+
+**Banking & Fintech Expertise:**
+- Merchant onboarding workflows (KYC, AML, credit checks)
+- Payment processing automation
+- Regulatory compliance integration
+- High-volume transaction handling
+
+---
+
+## 🏆 Featured Projects
+
+### 1. **Merchant Regression Testing Platform** 🧪
+**Tech Stack**: Python, Streamlit, REST APIs  
+**Impact**: Reduced testing cycle from 1-2 weeks to 3 days
+
+Comprehensive regression testing framework for merchant onboarding supporting:
+- Single & bulk test case creation
+- 15+ onboarding product types
+- Merchant type classification, pricing models, address validation
+- Nature of business categorization, credit checks
+- REST API integration for CI/CD automation
+- Export reports for progress tracking
+
+**Why it matters**: This automation saved the team 200+ hours quarterly while maintaining test coverage.
+
+---
+
+### 2. **Merchant MCC Prediction Agent** 🤖
+**Tech Stack**: Python, LangChain, Claude Sonnet 4.0, REST APIs  
+**Status**: In Production
+
+End-to-end agentic AI system that:
+- Analyzes merchant business descriptions using Claude Sonnet 4.0
+- Predicts relevant Merchant Category Codes (MCC) with semantic understanding
+- Validates MCCs via REST API calls to ensure regulatory compliance
+- Extracts business tokens and cross-references against valid MCC database
+- Determines accurate merchant nature of business classification
+
+**Impact**: Eliminates manual MCC assignment (~4 hours/week), improves accuracy, enables intelligent merchant categorization for risk assessment.
+
+---
+
+### 3. **Rental Property Portfolio Platform** 🏠
+**Tech Stack**: Next.js, React, PostgreSQL, Tailwind CSS, TypeScript  
+**Status**: Production Deployed
+
+Full-stack SaaS application featuring:
+- **Authentication**: Secure login/session management
+- **Search & Discovery**: Filter by location, amenities, cost, rooms, property type
+- **Shopping Cart**: Save interested properties
+- **Messaging**: In-app messaging & SMS notifications to landlords
+- **Backend**: PostgreSQL for application logs, case management, session tracking
+- **Real-time Updates**: React Query for optimized data fetching
+
+**Why featured**: Demonstrates full-stack competency combining AI-ready architecture (REST-first, modular backend) with modern React patterns.
+
+---
+
+## 📊 GitHub Stats
 
 ![Prabin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=pr4bin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4bin&layout=compact&theme=vue-dark&hide_border=true)
+
 ![GitHub Streak](https://streak-stats.demolab.com?user=pr4bin&theme=vue-dark&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pr4bin&layout=compact&theme=vue-dark&hide_border=true)
 
-## 🚀 Featured Projects
+---
 
-- [QuizProject](https://github.com/pr4bin/QuizProject) — Enterprise quiz automation in Python
-- [LangChain-Automation](https://github.com/pr4bin/LangChain-Automation) — Real-world workflow using LangChain, cloud APIs, and BPM
-- [BPM-Cloud-Solutions](https://github.com/pr4bin/BPM-Cloud-Solutions) — Hybrid Pega + Python orchestrations, AWS deployed
+## 🎓 Certifications & Credentials
 
-**Contact:**
-  
-📧 mprabin4@gmail.com
-  
-🔗 [LinkedIn: mprabin4](https://www.linkedin.com/in/mprabin4/)
+| Certification | Status |
+|---|---|
+| **AWS Cloud Practitioner** | ✅ Completed |
+| **AWS Solutions Architect Associate** | 🔄 In Progress |
+| **Pega Certified Developer (CPDC)** | ✅ Completed |
+| **Python Programming** | ✅ Completed |
+| **React Fundamentals** | ✅ Completed |
+
+---
+
+## 🔥 Key Differentiators
+
+✨ **Production LangChain Expertise**: 3+ agentic systems deployed in banking environment  
+✨ **AI + Enterprise BPM**: Rare blend of Pega mastery + modern AI stack  
+✨ **Tier-1 Bank Experience**: CBA-scale transaction handling, regulatory compliance, mission-critical systems  
+✨ **Full-Stack AI**: Python backends → Next.js frontends → Cloud deployment  
+✨ **Operational Impact**: 70% automation gains, measurable business outcomes  
+
+---
+
+## 📚 Tech Stack Breakdown
+
+```
+🤖 AI/ML & LLM
+├── LangChain (agents, chains, memory)
+├── Claude Sonnet 4.0, GPT-4
+├── RAG & Vector DBs
+├── Prompt Engineering
+└── Model Fine-tuning
+
+🐍 Python & Backend
+├── FastAPI, Flask
+├── REST APIs & AsyncIO
+├── Data Pipelines & ETL
+└── Streamlit (rapid prototyping)
+
+🎨 Frontend & Web
+├── Next.js 14+ (SSR, ISR, App Router)
+├── React 18+, TypeScript
+├── Tailwind CSS, DaisyUI
+├── React Query, React Hook Form
+└── TailwindCSS animations
+
+☁️ Cloud & DevOps
+├── AWS (EC2, S3, Lambda, RDS, DynamoDB)
+├── Docker & Docker Compose
+├── GitHub Actions CI/CD
+└── Infrastructure as Code
+
+🏢 Enterprise
+├── Pega 8.6 (BPM, CDH, Marketing Automation)
+├── JIRA, Confluence, GitHub
+└── GraphQL, SQL, NoSQL
+
+🗄️ Databases
+├── PostgreSQL, MySQL
+├── DynamoDB
+└── Vector Databases (Pinecone, Weaviate)
+```
+
+---
+
+## 🎯 Currently Open To
+
+- **🚀 Roles**: AI Specialist, Senior Backend Engineer, AI/ML Engineer, Tech Lead  
+- **🌍 Locations**: International (US/Europe) + India-based remote  
+- **🏢 Companies**: FAANG, Fast-growing AI startups, Fintech innovators  
+- **💡 Challenges**: RAG systems at scale, fine-tuning LLMs, agentic workflows, cloud architecture  
+
+---
+
+## 📬 Let's Connect
+
+I'm open to:
+- **Recruiting conversations** for AI specialist, senior engineer, or tech leadership roles
+- **Technical discussions** about LangChain, RAG, production AI systems
+- **Collaboration** on open-source AI projects
+- **Mentorship** on Python, LangChain, or cloud architecture
+
+**Reach out:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mprabin4)  
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mprabin4@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/pr4bin)
+
+---
+
+## 🌟 Random Dev Wisdom
+
+> *"The best automation is intelligent automation. Build systems that learn, adapt, and improve—not just execute."*
+
+---
+
+<p align="center">
+  <i>Last updated: December 2025 | Always learning, always building</i>
+</p>

@@ -96,40 +96,7 @@ Full-stack SaaS application featuring:
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-  <!-- GitHub Stats -->
-  <a href="https://github.com/pr4bin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pr4bin&show_icons=true&theme=vue-dark&hide_border=true&count_private=true" />
-  </a>
-
-  <!-- Top Languages -->
-  <a href="https://github.com/pr4bin">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4bin&layout=compact&theme=vue-dark&hide_border=true" />
-  </a>
-
-</div>
-
-<br />
-
-<!-- GitHub Streak -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pr4bin&theme=vue-dark&hide_border=true" />
-</div>
-
-<br />
-
-<!-- Contribution Graph -->
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pr4bin&theme=vue-dark&hide_border=true" />
-</div>
-
-
-<div align="center">
-  <a href="https://github.com/pr4bin">
-    <img src="https://streak-stats.demolab.com?user=pr4bin&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
-  </a>
-</div>
+![Prabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr4bin&show_icons=true&theme=vue-dark&hide_border=true)
 
 ---
 

@@ -95,8 +95,7 @@ Full-stack SaaS application featuring:
 ---
 
 ## 📊 GitHub Stats
-
-![Prabin's GitHub stats](https://github-readme-stats.vercel.app/api?username=pr4bin&show_icons=true&theme=vue-dark&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=pr4bin)
 
 ---
 

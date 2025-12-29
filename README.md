@@ -95,7 +95,21 @@ Full-stack SaaS application featuring:
 ---
 
 ## 📊 GitHub Stats
-![Prabin's GitHub Stats](https://github-readme-stats.vercel.app/api?...)
+
+<div align="center">
+  <a href="https://github.com/pr4bin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pr4bin&theme=vue-dark&show_icons=true&hide_border=true&count_private=true" alt="Prabin's GitHub Stats" />
+  </a>
+  <a href="https://github.com/pr4bin">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pr4bin&layout=compact&theme=vue-dark&hide_border=true" alt="Top Languages" />
+  </a>
+</div>
+
+<div align="center">
+  <a href="https://github.com/pr4bin">
+    <img src="https://streak-stats.demolab.com?user=pr4bin&theme=vue-dark&hide_border=true" alt="GitHub Streak" />
+  </a>
+</div>
 
 ---
 

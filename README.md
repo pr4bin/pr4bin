@@ -35,10 +35,10 @@ At **Commonwealth Bank of Australia**, I've built end-to-end agentic systems, re
 - **70% Cycle Time Reduction**: Automated regression testing from 1-2 weeks → 3 days (comprehensive semi-automated test suite with progress tracking)
 - **3 Production LangChain Agents**: Built end-to-end agentic systems for merchant intelligence and operational automation
 - **Merchant MCC Prediction Engine**: Agentic AI system using Claude Sonnet 4.0 to analyze business descriptions and predict merchant category codes with 95%+ accuracy
-- **Merchant Onboarding Automation**: Multi-product testing framework covering 15+ product types, merchant classifications, pricing models, and regulatory checks
+- **Merchant Onboarding Testing Automation**: Multi-product testing framework covering 15+ product types, merchant classifications, pricing models, and regulatory and credit checks
 
 **Banking & Fintech Expertise:**
-- Merchant onboarding workflows (KYC, AML, credit checks)
+- Merchant onboarding workflows
 - Payment processing automation
 - Regulatory compliance integration
 - High-volume transaction handling

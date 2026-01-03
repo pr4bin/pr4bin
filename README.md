@@ -189,5 +189,5 @@ I'm open to:
 ---
 
 <p align="center">
-  <i>Last updated: December 2025 | Always learning, always building</i>
+  <i>Last updated: Jan 2026 | Always learning, always building</i>
 </p>

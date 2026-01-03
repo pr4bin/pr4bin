@@ -102,7 +102,7 @@ Full-stack SaaS application featuring:
 | **AWS Solutions Architect Associate** | 🔄 In Progress |
 | **Pega Certified Developer (CPDC)** | ✅ Completed |
 | **Python Programming** | ✅ Completed |
-| **React Fundamentals** | ✅ Completed |
+| **React JS** | ✅ Completed |
 
 ---
 
